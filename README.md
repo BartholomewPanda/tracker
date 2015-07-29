@@ -1,7 +1,7 @@
 Tracker
 =======
 
-This is a simple proof of concept that allows to track a user by only using The
+This is a simple proof of concept that allows to track a user by only using the
 availables WIFI access points on his smartphone.
 
 If you are interested, I have written a short article about it:
