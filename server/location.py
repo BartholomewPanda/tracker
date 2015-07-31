@@ -80,7 +80,7 @@ class LocationManager:
                 if bssid in scan:
                     data.append(scan[bssid])
                 else:
-                    # if the bssid is not in the list, we compute and
+                    # if the bssid is not in the list, we compute an
                     # approximative value (average)
                     data.append(self._avg(scans, bssid))
             levels.append(data)
